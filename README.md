@@ -20,7 +20,7 @@ Our goal: empower Tigrigna speakers with the tools, content, and confidence to p
 | 🧱 Beginner Courses      | Cardano basics, wallets, transactions, dApps — all in Tigrigna             |
 | 💻 Developer Onboarding | Plutus, Aiken, and smart contract basics simplified for first-time devs    |
 | 📺 Video Tutorials      | High-quality voice-over content with real code + UI demos                  |
-| 🌐 Website & LMS        | Simple portal to browse, track, and complete modules                       |
+| 🌐 Website & LMS        | Simple portal to browse, track and complete modules                       |
 | 🗣 Glossary & Docs      | Web3 and Cardano terms translated and explained in Tigrigna                |
 | 🤝 Community Calls      | Monthly virtual learning and Q&A sessions (recorded + uploaded)            |
 
