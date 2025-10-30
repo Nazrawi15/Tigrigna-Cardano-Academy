@@ -1,6 +1,6 @@
 # 📚 Tigrigna Cardano Academy
 
-A community-powered initiative to teach blockchain, Web3, and Cardano fundamentals in Tigrigna — for Eritrean and Tigrigna speaking communities across the Horn of Africa and the diaspora.
+A community-powered initiative to teach blockchain, Web3, and Cardano fundamentals in Tigrigna for Eritrean and Tigrigna speaking communities across the Horn of Africa and the diaspora.
 
 > “When people learn in their language, they build with confidence. The future of Cardano is multilingual.”
 
