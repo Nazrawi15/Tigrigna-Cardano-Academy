@@ -44,7 +44,7 @@ Our goal: empower Tigrigna speakers with the tools, content, and confidence to p
 | 3     | Host 1st Tigrigna community call (recorded)  |
 | 4     | Developer crash course (Aiken + Playground)  |
 | 5     | Translate Plutus + Cardano docs              |
-| 6     | Launch open certification quiz & NFT badge   |
+| 6     | Launch open certification quiz and NFT badge   |
 
 ---
 
