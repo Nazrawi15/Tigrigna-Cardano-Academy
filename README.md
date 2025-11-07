@@ -116,7 +116,7 @@ A grassroots Cardano learning collective led by:
 - **Nasser Hassen** – Project lead, curriculum designer  
   [LinkedIn](https://www.linkedin.com/in/nasser-hassen-6856502a5/)
 
-- **Tigrigna Web3 Community** – Volunteer educators, voice-over artists, and developers from Eritrea, Ethiopia, and the global diaspora.
+- **Tigrigna Web3 Community** – Volunteer educators, voice-over artists, and developers from Eritrea, Ethiopia and the global diaspora.
 
 ---
 
