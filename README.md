@@ -22,7 +22,7 @@ Our goal: empower Tigrigna speakers with the tools, content and confidence to pa
 | 📺 Video Tutorials      | High-quality voice-over content with real code + UI demos                  |
 | 🌐 Website & LMS        | Simple portal to browse, track and complete modules                       |
 | 🗣 Glossary & Docs      | Web3 and Cardano terms translated and explained in Tigrigna                |
-| 🤝 Community Calls      | Monthly virtual learning and Q&A sessions (recorded + uploaded)            |
+| 🤝 Community Calls      | Monthly virtual learning and Q & A sessions (recorded + uploaded)            |
 
 ---
 
