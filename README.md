@@ -73,7 +73,7 @@ All content is stored in this repo and will be continuously updated:
 
 - ✅ Tigrigna (primary)
 - 🌐 English (parallel subtitles + docs)
-- 🔄 Open to Amharic & Arabic extension in future
+- 🔄 Open to Arabic, Somali and luganda extension in future
 
 > Contributions welcome. Help us translate glossary terms or subtitles.
 
