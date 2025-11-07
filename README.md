@@ -105,7 +105,7 @@ All content is stored in this repo and will be continuously updated:
 
 - Content: **Creative Commons CC BY 4.0**
 - Code: **MIT License**
-- You’re free to remix, translate, and reuse — with credit.
+- You’re free to remix, translate and reuse — with credit.
 
 ---
 
