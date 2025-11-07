@@ -9,7 +9,7 @@ A community-powered initiative to teach blockchain, Web3, and Cardano fundamenta
 ## 🎯 Mission
 
 Tigrigna Cardano Academy is the **first open-source blockchain learning hub** in the Tigrigna language.  
-Our goal: empower Tigrigna speakers with the tools, content, and confidence to participate in the global Web3 economy.
+Our goal: empower Tigrigna speakers with the tools, content and confidence to participate in the global Web3 economy.
 
 ---
 
